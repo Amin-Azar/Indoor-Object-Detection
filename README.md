@@ -13,9 +13,11 @@ Having these contexual information, the next step is to combine these raw inform
  + DenseNet
 
 ## Library
-ML: Imageai's `ImagePrediction` and `ObjectDetection`
-Text extraction: `pytesseract` and `cv2`
+ + ML: Imageai's `ImagePrediction` and `ObjectDetection`
+ + Text extraction: `pytesseract` and `cv2`
 
 ## Sample Extracted Text
+![Sample Text Extraction](sample_images_out/textSample.png)
+
 `BzgkDahBHk3.jpg, [], [], ['[EM@eeee', 'you@yourwebsite.com'], #12-xxx Lynn Valley Road, North Vancouver||2 bedrooms + 11/2 bathrooms||ROOFTOP DECK ROOFTOP DECK|Top Floor - 97 sq.ft. 7`
 
